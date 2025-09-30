@@ -1,4 +1,4 @@
-# SPARFlow
+# SPARFlow 1.0
 This repository contains all information relating to SPARFlow, an open-source KNIME workflow for SAR/SPR analysis. The workflow guides users through the process of loading and cleaning chemical datasets, and then calculating key metrics for assessing structure-activity or structure-property relationships. It consists of seven main sections:
 
 (1) data entry and validation,
