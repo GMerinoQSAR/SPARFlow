@@ -5,7 +5,9 @@ This repository contains all information relating to SPARFlow, an open-source KN
 
 (2) chemical curation using the QSAR-compatible workflow;
 
-(3) generation of an NSG; (4) clustered MCS search;
+(3) generation of an NSG; 
+
+(4) clustered MCS search;
 
 (5) decomposition of R groups and conversion into fragment descriptors;
 
